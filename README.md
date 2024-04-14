@@ -32,6 +32,10 @@
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 <div align="center">
   <a href="https://www.instagram.com/kingxion_.69/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -46,20 +50,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/TheKingXion/TheKingXion/snake.yml" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/luis.roberto.alexis">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=&count=10&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/TheKingXion/TheKingXion/output/snake.svg" alt="Snake animation" />
 
 ###
