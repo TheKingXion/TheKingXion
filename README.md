@@ -52,13 +52,13 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/TheKingXion/TheKingXion/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/TheKingXion/TheKingXion/snake.yml" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/luis.roberto.alexis">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=luis.roberto.alexis&count=10&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=&count=10&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
