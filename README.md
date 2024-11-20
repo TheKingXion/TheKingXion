@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Luis and I am a future js, py, html, css, lua and c++ programmer, I am from Santiago Chile</h2>
+<h2 align="left">Hi 👋! My name is Luis and I am a Python programmer and future js, html, css, lua and c++ , I am from Santiago Chile</h2>
 
 ###
 
