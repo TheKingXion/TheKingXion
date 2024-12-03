@@ -14,21 +14,22 @@ I'm a passionate Python programmer, constantly expanding my skills in web develo
 <summary>🌟 My Developer Journey</summary>
 <br>
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Luis"
-        self.primary_language = "Python"
-        self.learning = ["JavaScript", "HTML", "CSS", "Lua", "C++"]
-        self.interests = ["Web Development", "Game Development", "Data Science"]
-        self.challenge = "Code something new every day!"
-
-    def say_hi(self):
-        print(f"Thanks for dropping by, hope you find some of my work interesting.")
-
-me = Developer()
-me.say_hi()
-</details> ```
+  ```python
+  class Developer:
+      def __init__(self):
+          self.name = "Luis"
+          self.primary_language = "Python"
+          self.learning = ["JavaScript", "HTML", "CSS", "Lua", "C++"]
+          self.interests = ["Web Development", "Game Development", "Data Science"]
+          self.challenge = "Code something new every day!"
+  
+      def say_hi(self):
+          print(f"Thanks for dropping by, hope you find some of my work interesting.")
+  
+  me = Developer()
+  me.say_hi()
+```
+  </details> 
 
 ##📊 GitHub Stats
 <div align="center">
