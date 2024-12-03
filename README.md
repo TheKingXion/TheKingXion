@@ -47,7 +47,7 @@ I'm a passionate Python programmer, constantly expanding my skills in web develo
 
 <div align="center">
   <a href="https://www.credly.com/badges/b8399471-4ac6-4a92-bd4b-6aebe12e41ce" target="_blank">
-    <img src="[https://www.credly.com/badges/b8399471-4ac6-4a92-bd4b-6aebe12e41ce/public_url](https://www.credly.com/badges/b8399471-4ac6-4a92-bd4b-6aebe12e41ce/public_url)" width="150" alt="Python Certification"/>
+    <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="150" alt="Python Certification"/>
   </a>
 </div>
 
