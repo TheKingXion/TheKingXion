@@ -31,25 +31,26 @@ I'm a passionate Python programmer, constantly expanding my skills in web develo
 ```
   </details> 
 
-##📊 GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheKingXion&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=TheKingXion&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheKingXion&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-##💻 Tech Stack
+## 💻 Tech Stack
 
   <div align="center">
   </div>
 
-##🏆 Certifications
+## 🏆 Certifications
 
 <div align="center">
   <a href="https://www.credly.com/badges/b8399471-4ac6-4a92-bd4b-6aebe12e41ce" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="Python Certification"/>
   </a>
 </div>
+
 ## 🌐 Connect with Me
 
 <div align="center">
