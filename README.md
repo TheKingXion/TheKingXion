@@ -10,10 +10,11 @@
 
 ###
 
+  ## Domain
+  
 <br clear="both">
 
 <div align="center">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b8399471-4ac6-4a92-bd4b-6aebe12e41ce" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -34,6 +35,14 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+    ## Certificates
+
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b8399471-4ac6-4a92-bd4b-6aebe12e41ce" data-share-badge-host="https://www.credly.com">
+  </div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 ###
 
