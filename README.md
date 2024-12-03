@@ -1,58 +1,91 @@
-<h2 align="left">Hi 👋! My name is Luis and I am a Python programmer and future js, html, css, lua and c++, I am from Santiago, Chile</h2>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheKingXion&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=TheKingXion&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheKingXion&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Luis!;Python+Developer;Aspiring+Polyglot+Programmer;Code+Enthusiast" alt="Typing SVG" />
 </div>
 
----
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Based%20in-Santiago%2C%20Chile%20🇨🇱-brightgreen?style=for-the-badge&labelColor=000000" alt="Location Badge"/>
+</h3>
 
-### 🖥️ Domain
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-</div>
+## 🚀 About Me
 
----
+I'm a passionate Python programmer, constantly expanding my skills in web development (JS, HTML, CSS) and other languages like Lua and C++. My goal is to become a versatile developer capable of tackling diverse projects across multiple domains.
 
-### 🎓 Certificates
-<div align="center">
+<details>
+<summary>🌟 My Developer Journey</summary>
+<br>
+python
+class Developer:
+    def __init__(self):
+        self.name = "Luis"
+        self.primary_language = "Python"
+        self.learning = ["JavaScript", "HTML", "CSS", "Lua", "C++"]
+        self.interests = ["Web Development", "Game Development", "Data Science"]
+        self.challenge = "Code something new every day!"
+
+    def say_hi(self):
+        print(f"Thanks for dropping by, hope you find some of my work interesting.")
+
+me = Developer()
+me.say_hi()
+`</details>`## 📊 GitHub Stats
+
+`<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheKingXion&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=TheKingXion&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheKingXion&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
+</div>`## 💻 Tech Stack
+
+`<div align="center">`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`</div>`## 🏆 Certifications
+
+`<div align="center">
   <a href="https://www.credly.com/badges/b8399471-4ac6-4a92-bd4b-6aebe12e41ce" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/b8399471-4ac6-4a92-bd4b-6aebe12e41ce/python-certificate.png" alt="Python Certification" height="270" />
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="Python Certification"/>
   </a>
-</div>
+</div>`## 🌐 Connect with Me
 
----
-
-### 📱 Social Media
-<div align="center">
+`<div align="center">
   <a href="https://www.instagram.com/kingxion_.69/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.twitch.tv/kingxion69" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch"/>
   </a>
   <a href="https://discord.gg/BGJQTe5D6M" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-</div>
+</div>`## 🐍 GitHub Contributions
 
----
+`<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>`---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+`<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheKingXion&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+</div>``<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&random=false&width=500&height=80&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!" alt="Outro Message"/>
 </div>
