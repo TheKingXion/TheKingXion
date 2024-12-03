@@ -10,7 +10,7 @@
 
 ###
 
-  ## Domain
+## Domain
   
 <br clear="both">
 
@@ -34,7 +34,7 @@
 
 ###
 
-  ##Certificates
+## Certificates
 
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b8399471-4ac6-4a92-bd4b-6aebe12e41ce" data-share-badge-host="https://www.credly.com">
 
