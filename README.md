@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Python programmer, constantly expanding my skills in web development (JS, HTML, CSS) and other languages like Lua and C++. My goal is to become a versatile developer capable of tackling diverse projects across multiple domains.
+I'm a passionate Python programmer, I am 18 years old, constantly expanding my skills in web development (JS, HTML, CSS) and other languages like Lua and C++. My goal is to become a versatile developer capable of tackling diverse projects across multiple domains.
 
 <details>
 <summary>🌟 My Developer Journey</summary>
