@@ -8,7 +8,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate Python programmer, I am 18 years old, constantly expanding my skills in web development (JS, HTML, CSS) and other languages like Lua and C++. My goal is to become a versatile developer capable of tackling diverse projects across multiple domains.
+I’m an 18-year-old Python developer passionate about backend and online game server development. I build and optimize multiplayer systems, including plugins, scripts, and mods.
+
+I work with JavaScript, HTML, CSS, Lua, and SQL, and I’m currently expanding my skills with TypeScript, NestJS, and C++. My main interests are game servers, backend systems, and scalable web applications.
 
 <details>
 <summary>🌟 My Developer Journey</summary>
@@ -16,18 +18,63 @@ I'm a passionate Python programmer, I am 18 years old, constantly expanding my s
 
   ```python
   class Developer:
-      def __init__(self):
-          self.name = "Luis"
-          self.primary_language = "Python"
-          self.learning = ["JavaScript", "HTML", "CSS", "Lua", "C++"]
-          self.interests = ["Web Development", "Game Development", "Data Science"]
-          self.challenge = "Code something new every day!"
-  
-      def say_hi(self):
-          print(f"Thanks for dropping by, hope you find some of my work interesting.")
-  
-  me = Developer()
-  me.say_hi()
+    def __init__(self):
+        self.name = "Luis"
+        self.role = [
+            "Game Server Developer",
+            "Backend Developer",
+            "Full-Stack Web Developer"
+        ]
+
+        self.primary_language = "Python"
+
+        self.languages = {
+            "learned": ["Python", "JavaScript", "HTML", "CSS", "Lua", "PHP", "SQL"],
+            "learning": ["TypeScript", "NestJS", "C++"]
+        }
+
+        self.specialization = [
+            "Online Game Server Development",
+            "Server-side Game Logic",
+            "Plugins, Mods & Script Development",
+            "Multiplayer Systems & Synchronization",
+            "Server Optimization & Performance",
+            "Object-Oriented Programming",
+            "Database-driven Game Systems"
+        ]
+
+        self.web_stack = {
+            "frontend": ["HTML", "CSS", "JavaScript"],
+            "backend": ["Python", "SQL"],
+            "learning": ["TypeScript", "NestJS"]
+        }
+
+        self.game_experience = [
+            "FiveM Server Development",
+            "Hytale Server & Mod Development",
+            "Custom Game Mechanics",
+            "Server-authoritative Systems"
+        ]
+
+        self.interests = [
+            "Web Development",
+            "Game Development",
+            "Backend Architecture",
+            "Scalable Server Infrastructure"
+        ]
+
+        self.challenge = "Build and optimize something new every day."
+
+    def say_hi(self):
+        print(
+            "Thanks for stopping by! "
+            "I specialize in online game server development, "
+            "backend systems, and scalable web solutions."
+        )
+
+
+me = Developer()
+me.say_hi()
 ```
   </details> 
 
