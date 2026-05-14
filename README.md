@@ -16,6 +16,9 @@ I'm Luis, a developer from Santiago, Chile, focused on Python, backend systems, 
 
 Right now I am sharpening my stack around TypeScript, NestJS, C++, databases, and scalable server architecture. My sweet spot is where gameplay, backend logic, and automation meet.
 
+<details>
+  <summary><strong>View Python profile</strong></summary>
+
 ```python
 class TheKingXion:
     name = "Luis Gonzalez"
@@ -34,6 +37,7 @@ class TheKingXion:
     def mission(self):
         return "Build useful, fast and fun systems one project at a time."
 ```
+</details>
 
 ## What I Build
 
@@ -68,17 +72,7 @@ class TheKingXion:
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>Web</h3>
-      <p>A TypeScript project for the Xion web ecosystem.</p>
-      <p>
-        <a href="https://github.com/TheKingXion/Web">
-          <img src="https://img.shields.io/badge/View%20Repo-111827?style=for-the-badge&logo=github&logoColor=white" alt="Web repo" />
-        </a>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-      </p>
-    </td>
-    <td width="50%">
+    <td colspan="2">
       <h3>CatalogoA-C</h3>
       <p>A catalog web project built with JavaScript, CSS, and HTML.</p>
       <p>
