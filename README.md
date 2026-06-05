@@ -113,18 +113,6 @@ class TheKingXion:
   </a>
 </div>
 
-## Digital Products
-
-<div align="center">
-  <h3>Kit Anti-Fuga de Dinero</h3>
-  <p>Plantilla de 7 dias para encontrar gastos invisibles, ordenar gastos y detectar compras pequenas que se repiten.</p>
-  <p>
-    <a href="https://thekingxion.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Ver%20producto-USD%2010-178044?style=for-the-badge&logo=githubpages&logoColor=white" alt="Kit Anti-Fuga de Dinero" />
-    </a>
-  </p>
-</div>
-
 ## Connect
 
 <div align="center">
